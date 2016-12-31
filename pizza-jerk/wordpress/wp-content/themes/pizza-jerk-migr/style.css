@@ -90,14 +90,9 @@ ul li a {
   	align-items: center;
   	justify-content: flex-start;
   	text-align: center;
-
-
 }
 
 #homePageMainContent {
-	
-	
-    
 }	
 
 #navFlexContainer {
@@ -107,8 +102,6 @@ ul li a {
   	align-items: center;
   	justify-content: center;
   	padding-bottom: 1em;
-
-
 }
 
 footer {
@@ -133,7 +126,6 @@ footer {
 	padding: 0;
 	margin: 0;
 	width: 100%;
-
 }
 
 
@@ -166,8 +158,6 @@ footer {
 	
 }
 
-
-
 .navItemCall {
 	background-image: url(img/button-vectors/brown-button.png); 	
 } 
@@ -186,10 +176,6 @@ footer {
 	height: 100px;
 	width: 100px;
 }
-
-
-
-
 
 
 /*  =================================
@@ -258,8 +244,6 @@ body > article {
 	}
 	#header img {
 		padding-bottom: 1em;
-
-
 	}
 }
 
@@ -282,23 +266,18 @@ body > article {
 	#footerNavigation a {
 
 
-	font-size: .85em;
-
-	
-}
-
+	font-size: .85em;	
+	}
 }
 @media only screen and (max-width: 768px) {
 	#header img {
 		padding-bottom: 1.75em;
 
-	}
-	
+	}	
 }
 
 @media only screen and (max-width: 1024px) and (min-width: 769px) {
 	#header img {
-		
 
 	}
 	
