@@ -1,0 +1,22 @@
+/* Global styles*/
+* {
+	background-color: black;
+}
+
+/*End Global Styles*/
+
+header {
+	display: block;
+	color: white;
+	background-color: black;
+}
+
+footer {
+	display: block;
+	color: white;
+	background-color: black;	
+}
+
+header {
+	font-size: 3em;
+}

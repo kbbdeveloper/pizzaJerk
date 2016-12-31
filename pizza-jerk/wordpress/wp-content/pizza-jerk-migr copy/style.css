@@ -1,0 +1,54 @@
+/*
+Theme Name: Migration
+Theme URI: [GitHub Link]
+Description: A base theme for porting an existing design to WordPress.
+Version: 1.0
+Author: Jonathan Wold
+Author URI: http://jonathanwold.com
+*/
+
+/* Styles go below */
+
+/* GLOBAL MOBILE STYLE */
+* {
+	font-size: 100%;
+	
+}
+
+body {
+	
+}
+
+/* END GLOBAL MOBILE STYLES */
+
+/* HOME PAGE MOBILE STYLE */
+
+#homeBodyContent {
+	background-color: lightgrey;
+}
+
+
+
+/* HEADER MOBILE STYLES */
+header {
+	background-color: lightgreen;
+	
+}
+
+/* END HEADER MOBILE STYLES */
+
+
+
+
+
+/* FOOTER MOBILE STYLES */
+
+footer {
+	background-color: lightblue;
+	text-align: center;	
+}
+
+
+
+/* END FOOTER MOBILE STYLES */
+
