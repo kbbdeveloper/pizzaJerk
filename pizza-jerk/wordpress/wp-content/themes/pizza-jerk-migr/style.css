@@ -189,9 +189,6 @@ footer {
 
 
 
-
-
-
 /*  =================================
  Base Styles - Menu
 ==================================== */
@@ -251,25 +248,26 @@ body > article {
 ==================================================== */
 
 @media only screen and (max-width: 736px) and (min-width: 320px) {
+	
 	.navItemCall, .navItemMenu, .navItemAbout {
-		
 		height: 75px;
 		width: 75px;
 	}
+	
 	#header img {
 		padding-bottom: 1em;
-
-
 	}
 }
+
+
 
 @media only screen and (max-width: 736px) and (min-width: 414px) {
 	
 	#header img {
 		padding-bottom: 2em;
-
 	}
 }
+
 
 
 @media only screen and (max-width: 320px) {
@@ -280,28 +278,23 @@ body > article {
 	}
 
 	#footerNavigation a {
-
-
 	font-size: .85em;
-
-	
+	}
 }
 
-}
+
+
 @media only screen and (max-width: 768px) {
 	#header img {
 		padding-bottom: 1.75em;
-
 	}
-	
 }
+
+
 
 @media only screen and (max-width: 1024px) and (min-width: 769px) {
 	#header img {
-		
-
 	}
-	
 }
 
 
